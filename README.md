@@ -6,7 +6,7 @@
 I'm Henrique Doehler, a full-stack developer and a cyber defense student at FIAP.
 
 -   :hammer_and_pick: Javascript / React / Next / Python
--   :pencil2: [Ubuntu Linux](https://ubuntu.com)) / [Kali Linux](https://www.kali.org/) 
+-   :pencil2: [Ubuntu Linux](https://ubuntu.com) / [Kali Linux](https://www.kali.org/) 
 
 
 
