@@ -3,7 +3,7 @@
 <h3 align="center">Hey, Henrique here! 👋</h3>
 
 
-I'm Henrique Doehler, an undergraduate student at FIAP.
+I'm Henrique Doehler, a full-stack developer and a cyber defense student at FIAP.
 
 -   :hammer_and_pick: Javascript / React / Next / Python
 -   :pencil2: [Ubuntu Linux](https://ubuntu.com)) / [Kali Linux](https://www.kali.org/) 
