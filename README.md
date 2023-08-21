@@ -1,6 +1,14 @@
 
 
-<h3 align="center">A developer from Brasil</h3>
+<h3 align="center">Hey, Henrique here! 👋</h3>
+
+
+I'm Henrique Doehler, an undergraduate student at FIAP.
+
+-   :hammer_and_pick: Javascript / React / Next / Python
+-   :pencil2: [Ubuntu Linux](https://ubuntu.com)) / [Kali Linux](https://www.kali.org/) 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
