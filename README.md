@@ -5,8 +5,7 @@
 
 I'm Henrique Doehler, a full-stack developer and a cyber defense student at FIAP.
 
--   :hammer_and_pick: Javascript / React / Next / Python
--   :pencil2: [Ubuntu Linux](https://ubuntu.com) / [Kali Linux](https://www.kali.org/) 
+
 
 “📚 Currently Reading: ‘Operating Systems: Design and Implementation’ by Andrew S. Tanenbaum and Albert S. Woodhull <br/>
 | Recommend: ‘Algorithms to Live By: The Computer Science of Human Decisions’ by Brian Christian and Tom Griffiths <br/>
